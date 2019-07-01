@@ -3,19 +3,6 @@
  > DeepNudes is a Terrifying New App That 'Undresses' Women's Bodies With One Click
 
 <pre>
-        __
-     __/o \_
-     \____  \
-         /   \
-        //\   \
-__/. \-//--\   \_/
-\____  ___  \  |
-     ||   \ |\ |
-    _||   _||_||
-    
-  </pre>
-
-<pre>
 |                                                             |
 |      __...--""""--...__                                     |
 | ,--""                  ""--.,                               |
@@ -297,9 +284,21 @@ If you love cats, and love reading cool graphics, vision, and ML papers, please 
 ## The super awesome ascii boobies I stolee for whatever hell this is
 http://www.ascii-art.de/ascii/xyz/xxx.txt
 
-## The words written in the bubble some lunatic wrote. and before I censored it, it was a work from oglesbee/'02
+## The words written in the bubble some lunatic wrote. 
+#### and before I censored it, it was a work from oglesbee/'02
 
-
+<pre>
+        __
+     __/o \_
+     \____  \
+         /   \
+        //\   \
+__/. \-//--\   \_/
+\____  ___  \  |
+     ||   \ |\ |
+    _||   _||_||
+    
+  </pre>
 
 <pre>
 
