@@ -115,6 +115,14 @@
 
 
 </pre>
+
+
+<pre>
+
+   <img src='https://github.com/mechanicalAI/pytorch-CycleGAN-and-pix2pix/blob/master/imgs/horse2zebra.gif' align="left" width=384>
+   
+   </pre>
+   
 <pre>
 
 
@@ -222,8 +230,7 @@
                               
 
 
-        <img src='https://github.com/mechanicalAI/pytorch-CycleGAN-and-pix2pix/blob/master/imgs/horse2zebra.gif' align="left" width=384>
-
+   
     
 </pre>
 
@@ -250,14 +257,23 @@
 [GANimation](https://github.com/albertpumarola/GANimation): if you can't hadle bad boobs then Anatomically-aware Facial Animation from a Single Image will hopefully give you cardiac arrest
 
 ## After looking at how bad my ass loooked nude, The auther of DeepNudes wtote some code using the following: 
-Open CV
-PyTorch
-Numpy
-PIL
-PyQt5 https://pypi.org/project/PyQt5/
+[Open CV](https://opencv.org/) Computer Vision Library, duh  
+
+[PyTorch](https://pytorch.org/) Torch, but Python 
+
+[Numpy](https://www.numpy.org/) Ypnum spelled backwards 
+
+[PIL](https://pillow.readthedocs.io/en/stable/) Red, please 
+
+
+(PyQt5)(https://pypi.org/project/PyQt5/): python instead of c++ 
 
 ## Very Unrelated Projects:
 [DolphinVM](https://github.com/dolphinsmalltalk/DolphinVM): Dolphin Small Talk VM Please note: This repository is now obsolete. It has been merged into the main Dolphin repository for Dolphin 7.1.
+
+[BrainFuck](https://github.com/trending/brainfuck): Trending BrainFuck repos. Not a one. May have to look this up on your own.
+
+[DungeonsOfDaggorath](https://github.com/mechanicalAI/dungeons-of-daggorath): My clone of the Source code of the Linux port v0.5.1 of Richard Hunerlach's Windows C port of "Dungeons of Daggorath". 
 
 ## Cat Paper Collection Even though I didn't use it. 
 If you love cats, and love reading cool graphics, vision, and ML papers, please check out the Cat Paper [Collection](https://github.com/junyanz/CatPapers).  
